@@ -1,6 +1,6 @@
 ---
 layout: resume
-title: Blake Krupa Resume
+title: My Resume
 ---
 # Blake Krupa
 Data Science Student at BYU-Idaho
