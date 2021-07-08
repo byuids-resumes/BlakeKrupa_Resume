@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: Resume
 title: My Resume
 ---
 # Blake Krupa
