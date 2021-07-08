@@ -1,84 +1,90 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Blake Krupa Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Blake Krupa
+Data Science Student at BYU-Idaho
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected Aug. 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Minor in Statistics
+- Certificate in Databases (In Progress)
+- 4.0/4.0  GPA
 
 
-## Related Experience
+## Professional Experience
 
-### Internships
+### Analytics Engineer Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2021 - Present`
+__Eagle Eye Produce__, Idaho Falls, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Built and maintained an Internal API
+- Automated Web scraping process that cleaned and stored information in on premise database
+- Built and maintained data structures for live reporting
 
-### Data Science Lead
+### Data Architect Intern
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`May 2021 - Aug 2021`
+__Intermountain Healthcare__, West Jordan, UT
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Assist with the conversions of ETL jobs from IBM DataStage to Informatica PowerCenter
+- Assist with clinical and business projects
+- Interacted with the business to translate business needs into IT solutions
+- Assisted in transforming data to aid various departments across multiple states.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Data Analyst Intern
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`April 2021 - June 2021`
+__BYU-Pathways__, Salt Lake City, UT
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Designed and built a Machine Learning model to predict student retention for approx. 35,000 students
+- Assisted in integrating and maintaining machine learning models into Azure
+- Led small group trainings on R, SQL connections and, Azure Integration
+- Reconfigured SQL queries to optimize data cleaning
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Skills And Projects
+
+- Technical Skills: R, Python, SQL, PL/SQL, Java, Tableau, Azure Machine Learning, Informatica
+- Built a historical stock database with 8 tables(MySQL)
+- Built a technical trading bot to analyze investment trends (Python
+- Built a text analysis program to analyze SPAC progressing from Reddit API (Python, R)
+- Database Design and Development
+- Applied Calculus for Data Analysis
+- Data Warehousing
+
+
+## Volunteer Experience
+
+`2019-2020`
+__Program Director__, BYUSA Mental Health Matters
+
+- Coordinate events with the help of 10 other program directors on BYU campus 
+- Promoted healthy programs on campus to improve mental health of BYU student body
+- Prepared a 10-day Mental Health Week event to spread awareness across campus
+
+
+`2016-2018`
+__Full-time Volunteer Representative (Spanish Speaking)__, Birmingham, AL
+
+- Collaborated and coordinated with local church leaders to best assist needs of the area
+- Prepared and taught weekly meeting to a group of 10 individuals to reach team goals
+- Provided leadership and planning for up to 40 other volunteers for the purpose of reaching short-term and long-term
+goals for the area
 
 
 
