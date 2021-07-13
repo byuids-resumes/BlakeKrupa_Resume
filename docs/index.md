@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Blake Krupa Resume
 ---
 # Blake Krupa
