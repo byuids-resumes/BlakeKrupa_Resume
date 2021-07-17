@@ -18,7 +18,7 @@ Data Science Student at BYU-Idaho
 `Expected Aug. 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Major in ......
+- Major in Data Science
 - Minor in Statistics
 - Certificate in Databases (In Progress)
 - 4.0/4.0  GPA
