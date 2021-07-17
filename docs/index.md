@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Blake Krupa Resume
 ---
 # Blake Krupa
@@ -18,6 +18,7 @@ Data Science Student at BYU-Idaho
 `Expected Aug. 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Major in ......
 - Minor in Statistics
 - Certificate in Databases (In Progress)
 - 4.0/4.0  GPA
@@ -61,7 +62,7 @@ __BYU-Pathways__, Salt Lake City, UT
 
 - Technical Skills: R, Python, SQL, PL/SQL, Java, Tableau, Azure Machine Learning, Informatica
 - Built a historical stock database with 8 tables(MySQL)
-- Built a technical trading bot to analyze investment trends (Python
+- Built a technical trading bot to analyze investment trends (Python)
 - Built a text analysis program to analyze SPAC progressing from Reddit API (Python, R)
 - Database Design and Development
 - Applied Calculus for Data Analysis
